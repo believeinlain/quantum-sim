@@ -1,2 +1,2 @@
 # quantum-sim
-Quantum computer emulator build in Python
+Quantum computer emulator built in Python
